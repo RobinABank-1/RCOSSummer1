@@ -4,7 +4,9 @@
 
 Name- Robin Corwin
 
-Image - !\[pic of a pokemon](./assets/pic.png)
+Image - 
+
+!\[pic of a pokemon](/assets/pic.png)
 
 Graduating 2028
 
