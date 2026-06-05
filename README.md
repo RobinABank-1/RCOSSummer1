@@ -6,7 +6,7 @@ Name- Robin Corwin
 
 Image - 
 
-!\[alt text](https://github.com/RobinABank-1/RCOSSummer1/blob/main/assets/pic.png)
+!\[alt text](pic.png)
 
 Graduating 2028
 
