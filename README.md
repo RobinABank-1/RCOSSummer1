@@ -6,7 +6,7 @@ Name- Robin Corwin
 
 Image - 
 
-!\[alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+!\[alt text](https://github.com/RobinABank-1/RCOSSummer1/blob/main/assets/pic.png)
 
 Graduating 2028
 
