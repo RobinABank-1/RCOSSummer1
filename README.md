@@ -6,7 +6,7 @@ Name- Robin Corwin
 
 Image -
 
-!\[pokemon](https://raw.githubusercontent.com/RobinABank-1/RCOSSummer1/refs/heads/main/pic.png)
+![pokemon](https://raw.githubusercontent.com/RobinABank-1/RCOSSummer1/refs/heads/main/pic.png)
 
 Graduating 2028
 
